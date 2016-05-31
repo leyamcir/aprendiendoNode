@@ -1,0 +1,14 @@
+{
+  "name": "modulo",
+  "version": "1.0.0",
+  "description": "Modulo de prueba",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alicia",
+  "license": "MIT",
+  "dependencies": {
+    "chance": "^1.0.2"
+  }
+}
